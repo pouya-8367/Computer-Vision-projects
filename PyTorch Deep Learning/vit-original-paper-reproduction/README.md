@@ -14,13 +14,6 @@ The goal is to understand the ViT architecture — patch embedding, multi-head s
 ### 🚀 Features
 - Custom PyTorch implementation of ViT  
 - Modular structure (Embedding, Encoder, MLP, etc.)
-  
----
-
-### 🧰 Requirements
-Install dependencies:
-```bash
-pip install torch torchvision torchaudio matplotlib numpy tqdm
 
 ---
 
@@ -31,6 +24,17 @@ pip install torch torchvision torchaudio matplotlib numpy tqdm
 By *Alexey Dosovitskiy et al., 2020*  
 Paper link: https://arxiv.org/abs/2010.11929
 
+---
+
 ### 📗 PyTorch Vision Transformer Docs
 Official implementation and pretrained models:  
 https://pytorch.org/vision/stable/models/vision_transformer.html
+  
+---
+
+### 🧰 Requirements
+Install dependencies:
+```bash
+pip install torch torchvision torchaudio matplotlib numpy tqdm
+
+
